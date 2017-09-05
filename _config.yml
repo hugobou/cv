@@ -1,6 +1,6 @@
 # Site settings
-title: "Hugo Boullosa Gonzalez"
-description: "Hugo Boullosa Gonzalez's CV"
+title: "Hugo Boullosa Gonz&aacute;lez"
+description: "Hugo Boullosa Gonz&aacute;lez's CV"
 
 # Build settings
 markdown: kramdown
@@ -10,7 +10,7 @@ sass:
 
 # Resume settings
 resume_avatar:                  "false"
-resume_name:                    "Hugo Boullosa Gonzalez"
+resume_name:                    "Hugo Boullosa Gonz&aacute;lez"
 resume_title:                   "Software Engineer"
 resume_contact_email:           "hugo.bou.gz@gmail.com"
 resume_contact_telephone:       "+31 640 987 498"

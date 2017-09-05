@@ -45,7 +45,12 @@ resume_social_links:
   resume_linkedin_url:          "https://www.linkedin.com/in/hugobou"
   # resume_instagram_url:         "insert your Instagram URL here"
   # resume_website_url:           "http://www.hugoboullosa.com"
+  resume_website_url: "https://drive.google.com/open?id=0Bx6ck6e7695jbGsxODF3UmExSzQ"
 resume_print_social_links:      true
+
+
+
+
 
 # Design settings
 resume_theme:                   default

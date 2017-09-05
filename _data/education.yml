@@ -1,6 +1,16 @@
 # Degree
-- degree: Associates Degree, Business Management
-  uni: Springfield College
-  year: 1984 &mdash; 1986
-  awards: Quickest to fall asleep
-  summary: If you had any meaningful roles at college, feel free to write about them here
+- degree: B.S. + M.S. Telecommunication Engineering
+  uni: Universidade de Vigo, Spain
+  year: 2006 &mdash; 2013
+  #awards: Quickest to fall asleep
+  summary: Double specialization in electronics and signal processing 
+        <ul class="resume-item-list"> 
+        <li>Computer engineering&#58; computer architecture and software engineering</li> 
+        <li>Embedded systems&#58; microcontrollers, FPGAs</li> 
+        <li>Digital signal processing</li> 
+        <li>Communication protocols&#58; TCP&#47;IP, WiFi</li> 
+        </ul>
+
+- degree: B.S. Economics
+  uni: UNED, Spain
+  #summary: To be completed

@@ -1,5 +1,6 @@
 # Jobs
 - company:  Intel Corporation
+  location: Eindhoven
   position: Scrum Master
   duration: Nov. 2016 &mdash; Present
   summary:  
@@ -10,6 +11,7 @@
         <li>Promote Scrum principles</li></ul>
 
 - company:  Intel Corporation
+  location: Eindhoven
   position: FW engineer
   duration: Apr. 2014 &mdash; Present
   summary:  
@@ -21,11 +23,13 @@
                 </ul>
 
 - company:  Thales Nederland
+  location: Delft
   position: Software Engineer Trainee
   duration: Jan. &mdash; Aug. 2013
   summary: Development of a GPU implementation of a compressed sensing algorithm, achieving a significant performance improvent in comparison with a conventional GPU implementation.
 
 - company:  European Space Astronomy Centre (ESAC)
+  location: Madrid
   position: Software Engineer Trainee
   duration: July &mdash; Sept. 2011
   summary: Refactoring and extension of a script to analyse images of the XMM&mdash;Newton telescope.

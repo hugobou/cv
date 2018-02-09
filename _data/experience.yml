@@ -26,7 +26,7 @@
   location: Delft
   position: Software Engineer Trainee
   duration: Jan. &mdash; Aug. 2013
-  summary: Development of a GPU implementation of a compressed sensing algorithm, achieving a significant performance improvent in comparison with a conventional GPU implementation.
+  summary: Development of a GPU implementation of a compressed sensing algorithm, achieving a significant performance improvent in comparison with a conventional CPU implementation.
 
 - company:  European Space Astronomy Centre (ESAC)
   location: Madrid

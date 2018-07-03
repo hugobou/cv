@@ -1,8 +1,14 @@
 # Jobs
+- company:  Philips Digital Pathology Solutions
+  location: Eindhoven
+  position: Software Engineer
+  duration: Nov. 2016 &mdash; Dec. 2017
+  #summary:  
+
 - company:  Intel Corporation
   location: Eindhoven
   position: Scrum Master
-  duration: Nov. 2016 &mdash; Present
+  duration: Nov. 2016 &mdash; Dec. 2017
   summary:  
         <ul class="resume-item-list">
         <li>Work with product owners to groom the backlog and plan sprints</li> 
@@ -12,8 +18,8 @@
 
 - company:  Intel Corporation
   location: Eindhoven
-  position: FW engineer
-  duration: Apr. 2014 &mdash; Present
+  position: Firmware Engineer
+  duration: Apr. 2014 &mdash; Dec. 2017
   summary:  
         <ul class="resume-item-list">
                 <li>Design, development and maintenance of Intel camera system firmware components. </li>

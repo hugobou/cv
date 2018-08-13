@@ -1,9 +1,9 @@
 # Skills
 - skill: Programming
-  description: C, C++, BASH, Python, Matlab
+  description: C, C++, Java, BASH, Python, Matlab
 
 - skill: Version Control
-  description: Git
+  description: Git, SVN
 
 - skill: Agile
-  description: Scrum, Jira
+  description: Scrum, Scaled Agile, Jira, TFS
